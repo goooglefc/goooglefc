@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Sports">
-    <display-name lang="en">Sports</display-name>
+    <display-name lang="ur">Sports</display-name>
     <url>http://www.sports.com</url>
   </channel>
   <programme start="20230102000000 +0500" stop="20230102020000 +0500" channel="Sports">
