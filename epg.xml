@@ -292,4 +292,40 @@
   <programme start="20230109220000 +0500" stop="20230109235900 +0500" channel="PTV Sports">
     <title lang="ur">Sports Programme</title>
   </programme>
+  <programme start="2023010000000 +0500" stop="2023010020000 +0500" channel="PTV Sports">
+    <title lang="ur">Sports Programme</title>
+  </programme>
+  <programme start="2023010020000 +0500" stop="2023010040000 +0500" channel="PTV Sports">
+    <title lang="ur">Sports Programme</title>
+  </programme>
+  <programme start="2023010040000 +0500" stop="2023010060000 +0500" channel="PTV Sports">
+    <title lang="ur">Sports Programme</title>
+  </programme>
+  <programme start="2023010060000 +0500" stop="2023010080000 +0500" channel="PTV Sports">
+    <title lang="ur">Sports Programme</title>
+  </programme>
+  <programme start="2023010080000 +0500" stop="2023010100000 +0500" channel="PTV Sports">
+    <title lang="ur">Sports Programme</title>
+  </programme>
+  <programme start="2023010100000 +0500" stop="2023010120000 +0500" channel="PTV Sports">
+    <title lang="ur">Sports Programme</title>
+  </programme>
+  <programme start="2023010120000 +0500" stop="2023010140000 +0500" channel="PTV Sports">
+    <title lang="ur">Sports Programme</title>
+  </programme>
+  <programme start="2023010140000 +0500" stop="2023010160000 +0500" channel="PTV Sports">
+    <title lang="ur">Sports Programme</title>
+  </programme>
+  <programme start="2023010160000 +0500" stop="2023010180000 +0500" channel="PTV Sports">
+    <title lang="ur">Sports Programme</title>
+  </programme>
+  <programme start="2023010180000 +0500" stop="2023010200000 +0500" channel="PTV Sports">
+    <title lang="ur">Sports Programme</title>
+  </programme>
+  <programme start="2023010200000 +0500" stop="2023010220000 +0500" channel="PTV Sports">
+    <title lang="ur">Sports Programme</title>
+  </programme>
+  <programme start="2023010220000 +0500" stop="2023010230000 +0500" channel="PTV Sports">
+    <title lang="ur">Sports Programme</title>
+  </programme>
 </tv>
