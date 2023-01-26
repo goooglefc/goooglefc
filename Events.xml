@@ -20,13 +20,13 @@ generator-info-url="http://www.webgrabplus.com">
     <title lang="en">No Live Event Now</title>
   </programme>
 
-  <programme start="20230101000000 +0500" stop="20230127010000 +0500" channel="Event1">
+  <programme start="20230101000000 +0500" stop="20230127010000 +0500" channel="Event2">
     <title lang="en">No Live Event Now</title>
   </programme>
-  <programme start="20230127010000 +0500" stop="20230127040000 +0500" channel="Event1">
+  <programme start="20230127010000 +0500" stop="20230127040000 +0500" channel="Event2">
     <title lang="en">Real Madrid vs Atletico Madrid, Copa Del Rey</title>
   </programme>
-  <programme start="20230127040000 +0500" stop="20231231235959 +0500" channel="Event1">
+  <programme start="20230127040000 +0500" stop="20231231235959 +0500" channel="Event2">
     <title lang="en">No Live Event Now</title>
   </programme>
 </tv>
