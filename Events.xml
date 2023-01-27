@@ -10,23 +10,10 @@ generator-info-url="http://www.webgrabplus.com">
     <display-name lang="en">Event2</display-name>
     <url>http://www.google.com.pk</url>
   </channel>
-  <programme start="20230127000000 +0500" stop="20230128010000 +0500" channel="Event1">
+  <programme start="20230128000000 +0500" stop="20231231235959 +0500" channel="Event1">
     <title lang="en">No Live Event Now</title>
   </programme>
-  <programme start="20230128010000 +0500" stop="20230128033000 +0500" channel="Event1">
-    <title lang="en">Manchester City vs Arsenal, English FA Cup</title>
-  </programme>
-  <programme start="20230128033000 +0500" stop="20231231235959 +0500" channel="Event1">
-    <title lang="en">No Live Event Now</title>
-  </programme>
-
-  <programme start="20230127000000 +0500" stop="20230128010000 +0500" channel="Event2">
-    <title lang="en">No Live Event Now</title>
-  </programme>
-  <programme start="20230128010000 +0500" stop="20230128033000 +0500" channel="Event2">
-    <title lang="en">Lorient vs Rennes, French Ligue 1</title>
-  </programme>
-  <programme start="20230128033000 +0500" stop="20231231235959 +0500" channel="Event2">
+  <programme start="20230128000000 +0500" stop="20231231235959 +0500" channel="Event2">
     <title lang="en">No Live Event Now</title>
   </programme>
 </tv>
