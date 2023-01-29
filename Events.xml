@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" 
-
-generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Event1">
     <display-name lang="en">Event1</display-name>
     <url>http://www.google.com.pk</url>
@@ -11,9 +9,9 @@ generator-info-url="http://www.webgrabplus.com">
     <url>http://www.google.com.pk</url>
   </channel>
   <programme start="20230128000000 +0500" stop="20231231235959 +0500" channel="Event1">
-    <title lang="en">No Live Event Now</title>
+    <title lang="en">Current Live Event displayed in title</title>
   </programme>
   <programme start="20230128000000 +0500" stop="20231231235959 +0500" channel="Event2">
-    <title lang="en">No Live Event Now</title>
+    <title lang="en">Current Live Event displayed in title</title>
   </programme>
 </tv>
