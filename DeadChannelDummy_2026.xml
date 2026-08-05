@@ -2,7 +2,7 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Dummy Dead Channel">
     <display-name lang="en">Dummy Dead Channel</display-name>
-    <icon src="https://i.ibb.co/ns5bH2hZ/chanava.jpg"/>
+    <icon src="https://i.ibb.co/QjzrrR1j/brokenchannel.jpg"/>
     <url>http://www.google.com</url>
   </channel>
   <programme start="20260101000000 +0500" stop="20260101020000 +0500" channel="Dummy Dead Channel">
