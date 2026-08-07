@@ -2,7 +2,7 @@
 <tv generator-info-name="Dummy EPG Generator">
   <channel id="Dummy TBA">
     <display-name lang="en">Dummy TBA</display-name>
-    <icon src="https://i.ibb.co/RGkN0TPp/tobeann.png"/>
+    <icon src="https://i.ibb.co/Mxpp89y5/tbanewlogo.jpg"/>
   </channel>
 
   <programme start="20260401000000 +0000" stop="20260401020000 +0000" channel="Dummy TBA">
